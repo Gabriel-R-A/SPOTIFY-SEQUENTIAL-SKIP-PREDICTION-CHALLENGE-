@@ -18,7 +18,7 @@ O Spotify é uma das maiores plataformas de streaming de música atualmente. Com
  eficiência para resolver problemas de classificação de dados, apresentando uma
  boa acurácia para resolução do desafio.
 
- # Nesse repositorio se encontra:
- > Os códigos usados para analise e exploração dos dados oferecidos pelo Spotify;
-> O pipeline criado com os algoritmos de machine learning para predição dos pulos de faixas assim como o algoritmo de deeplearning;
-> O arquivo em PDF da pesquisa completa, ambientando sobre o objetivo de pesquisa, assim como descrição das metodologias e processos usados.
+ ### Nesse repositório se encontra:
+ >  - Os códigos usados para analise e exploração dos dados oferecidos pelo Spotify;
+>  - O pipeline criado com os algoritmos de machine learning para predição dos pulos de faixas assim como o algoritmo de deeplearning;
+>  - O arquivo em PDF da pesquisa completa, ambientando sobre o objetivo de pesquisa, assim como descrição das metodologias e processos usados.
